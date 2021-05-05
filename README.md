@@ -5,7 +5,7 @@ Compete to win!!
 
 ## Run Project 
 ```
-g++ tic_tac_toe.cpp -o a
+g++ tic_tac_toe.cpp play.cpp -o a
 
 ./a
 ```
