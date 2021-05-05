@@ -1,11 +1,12 @@
 # Tic-Tac-Toe
-This is a simple Tic-Tac-Toe game that can be play with 2 players.
-Compete to win!! 
+This is a Tic-Tac-Toe game that can be play with 2 players. <br/>
+Whoever coneects a line from three box wins the game. <br/>
+Compete with your friend to win!! <br/>
 [Demo Video](https://youtu.be/HmMEEtmvuvI)
 
 ## Run Project 
 ```
-g++ tic_tac_toe.cpp play.cpp -o a
+g++ tic_tac_toe.cpp play.cpp -o tic_tac_toe 
 
-./a
+./tic_tac_toe
 ```
